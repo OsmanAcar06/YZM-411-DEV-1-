@@ -1,0 +1,7 @@
+﻿bolge,yontem,MAE,PSNR_dB
+yazi,INTER_NEAREST,20.82,16.87
+yazi,Gauss + INTER_NEAREST,18.61,18.94
+yazi,INTER_AREA,15.87,20.19
+cizgili,INTER_NEAREST,8.99,22.71
+cizgili,Gauss + INTER_NEAREST,9.1,23.84
+cizgili,INTER_AREA,7.5,25.12
